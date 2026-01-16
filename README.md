@@ -129,7 +129,3 @@ Contributions are welcome!
 
 ---
 
-## License
-
-Add your project license here (e.g., MIT, Apache 2.0).
-
